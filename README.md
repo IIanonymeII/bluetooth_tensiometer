@@ -20,10 +20,10 @@ Pour commencer avec le projet, suivez ces étapes :
 ## Commandes via l'application Bluetooth
 Le tensiomètre Bluetooth prend en charge plusieurs commandes pour le contrôle à distance. Envoyez ces commandes depuis l'application "Serial Bluetooth Terminal" pour interagir avec le tensiomètre :
 
-- **Démarrer le tensiomètre :** Envoyez la commande "Start!"
-- **Arrêter le tensiomètre :** Envoyez la commande "Stop!"
-- **Afficher les résultats sur l'interface :** Envoyez la commande "Display!"
-- **Ne pas afficher les résultats sur l'interface :** Envoyez la commande "NotDisplay"
+- **Démarrer le tensiomètre :** Envoyez la commande `Start!`
+- **Arrêter le tensiomètre :** Envoyez la commande `Stop!`
+- **Afficher les résultats sur l'interface :** Envoyez la commande `Display!`
+- **Ne pas afficher les résultats sur l'interface :** Envoyez la commande `NotDisplay`
 - [Ajoutez ici d'autres commandes et leurs descriptions selon les besoins]
 
 N'hésitez pas à explorer et à expérimenter avec différentes commandes pour tirer le meilleur parti de votre tensiomètre Bluetooth.
